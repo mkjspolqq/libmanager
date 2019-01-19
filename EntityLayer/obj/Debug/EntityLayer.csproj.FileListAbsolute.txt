@@ -1,0 +1,24 @@
+C:\Users\yunus\Desktop\KutuphaneAPP\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\yunus\Desktop\KutuphaneAPP\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\yunus\Desktop\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\yunus\Desktop\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\yunus\Desktop\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.pdb
+F:\KutuphaneAPP\EntityLayer\bin\Debug\EntityLayer.dll
+F:\KutuphaneAPP\EntityLayer\bin\Debug\EntityLayer.pdb
+F:\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+F:\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+F:\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.dll
+F:\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\EntityLayer\obj\Debug\EntityLayer.pdb
