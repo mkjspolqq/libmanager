@@ -1,0 +1,54 @@
+C:\Users\yunus\Desktop\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\KutuphaneAPP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\yunus\Desktop\KutuphaneAPP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\yunus\Desktop\KutuphaneAPP\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\yunus\Desktop\KutuphaneAPP\BusinessLogicLayer\bin\Debug\FacadeLayer.dll
+C:\Users\yunus\Desktop\KutuphaneAPP\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\yunus\Desktop\KutuphaneAPP\BusinessLogicLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\yunus\Desktop\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\yunus\Desktop\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\yunus\Desktop\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\yunus\Desktop\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+F:\KutuphaneAPP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+F:\KutuphaneAPP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+F:\KutuphaneAPP\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+F:\KutuphaneAPP\BusinessLogicLayer\bin\Debug\FacadeLayer.dll
+F:\KutuphaneAPP\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+F:\KutuphaneAPP\BusinessLogicLayer\bin\Debug\FacadeLayer.pdb
+F:\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+F:\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+F:\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\BusinessLogicLayer\bin\Debug\FacadeLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\BusinessLogicLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\bin\Debug\FacadeLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\bin\Debug\FacadeLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
