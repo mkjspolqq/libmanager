@@ -1,0 +1,113 @@
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.Main.resources
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.KitapForm.resources
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\bin\Debug\EntityLayer.dll
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\bin\Debug\FacadeLayer.dll
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\bin\Debug\EntityLayer.pdb
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\yunus\Desktop\KutuphaneAPP\PresentationLayer\bin\Debug\KutuphaneDB.mdb
+F:\KutuphaneAPP\PresentationLayer\bin\Debug\KutuphaneDB.mdb
+F:\KutuphaneAPP\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+F:\KutuphaneAPP\PresentationLayer\bin\Debug\PresentationLayer.exe
+F:\KutuphaneAPP\PresentationLayer\bin\Debug\PresentationLayer.pdb
+F:\KutuphaneAPP\PresentationLayer\bin\Debug\BusinessLogicLayer.dll
+F:\KutuphaneAPP\PresentationLayer\bin\Debug\EntityLayer.dll
+F:\KutuphaneAPP\PresentationLayer\bin\Debug\FacadeLayer.dll
+F:\KutuphaneAPP\PresentationLayer\bin\Debug\BusinessLogicLayer.pdb
+F:\KutuphaneAPP\PresentationLayer\bin\Debug\EntityLayer.pdb
+F:\KutuphaneAPP\PresentationLayer\bin\Debug\FacadeLayer.pdb
+F:\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+F:\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.KitapForm.resources
+F:\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.Main.resources
+F:\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+F:\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+F:\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+F:\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.exe
+F:\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\EntityLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\FacadeLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\EntityLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.KitapForm.resources
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.Main.resources
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.AramaForm.resources
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.OduncForm.resources
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.OgrenciForm.resources
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.GrafikForm.resources
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\ZedGraph.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\ZedGraph.Web.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\ZedGraph.xml
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\ZedGraph.Web.xml
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\hakan\KutuphaneAPP\PresentationLayer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\EntityLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\FacadeLayer.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\EntityLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\FacadeLayer.pdb
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\ZedGraph.xml
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\ZedGraph.Web.xml
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.AramaForm.resources
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.GrafikForm.resources
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.KitapForm.resources
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.Main.resources
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.OduncForm.resources
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.OgrenciForm.resources
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\umutd\OneDrive\Masaüstü\C#\Hakan Ergovan 162113013 ve Yunus Serter 162119005\KutuphaneAPP\PresentationLayer\obj\Debug\PresentationLayer.pdb
