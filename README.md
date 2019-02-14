@@ -1,5 +1,5 @@
 # libmanager_library-automation
-#### Türkçe açıklaması için OkuBeni.md ye bakınız
+#### Türkçe açıklaması için TURKISH.md ye bakınız
 ## Explanation
 A library automation program. Made using C#. Database used is Microsoft Access. Comment lines are in Turkish.
 
