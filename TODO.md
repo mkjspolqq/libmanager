@@ -1,2 +1,0 @@
-- Add corresponding emails to AUTHORS
-- Rewamp icons and images
