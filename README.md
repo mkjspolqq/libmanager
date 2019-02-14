@@ -10,7 +10,7 @@ A library automation program. Made using C#. Database used is Microsoft Access. 
 - Tracking who has received a book and who is currently keeping it.
 - Delayed receivement and 2 day warnings. Delayed ones are in RED while 2 day warnings are in YELLOW
 - Delivered books will be marked in green.
-- Books ready to be borrowed will be marked in turquoise
+- Books ready to be returned will be marked in turquoise.
 - Borrowing and returning operations will be stored historically.
 - Books can be found with their code or name.
 - 1 unit penalty will be given for each day of the book being delayed.
