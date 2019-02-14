@@ -1,28 +1,28 @@
- # libmanager_kutuphane-otomasyon
- 
+# libmanager_kutuphane-otomasyon
+#### For the English version, check README.md
 ## Açıklama
-C# programlama dili kullanılarak Katmanlı mimari ile yapılmıştır. Access veri tabanı 	  kullanılmıştır. Aşağıdaki istekler çerveçesinde yapılmıştır. Programın içindeki yorum satırları türkçedir.
+Kütüphane otomasyonu programı. C# ile yapılmıştır. Access veri tabanı kullanılmıştır. Yorum satırları türkçedir.
 
-## İstekler
- - 1)Katmanlı Mimari kullanılcak.
- - 2)Öğrenci ve Kitap ekle, sil, güncelle olucak.
- - 3)Kitap ver ve kitap geri al olucak.
- - 4)Öğrencinin şimdiye kadar aldığı verdiği ve şuan elinde olan kitap görüntülenebilcek.
- - 5)Öğrencinin geciktirdiği kitaplar listesinde kırmızı olarak işaretlencek.
- - 6)Kitabın teslim süresine iki gün kaldıysa eğer uyarı amaçlı sarı işaretlencek.
- - 7)Teslim edilmiş kitaplar yeşil renkte işaretlenecek.
- - 8)Teslim edilmesine 2 gün kalana kadar turkuazla işaretlenecek.
- - 9)Kitap alma ve iade işlemleri tarihsel düzeyde gerçekleşecek.
- - 10)Kitap odu ve adına göre kitap bilgilerine ulaşılabilcek.
- - 11)Kitabın geciktirildiği her gün için 1 tl lik ceza yazılacak.
- - 12)Kütüphanedeki tüm kitaplar, öğrenciye verilmiş olan kitaplar ve verilmye hazır olan kitaplar **Zedgrapgh** ile grafik ile gösterilcek.
+## Yapabildikleri
+- Katmanlı Mimari kullanılmıştır.
+- Kullanıcı ve Kitap ekleme, silme, güncelleme özellikleri bulunur.
+- Kitap ödünç verme ve kabul etme özellikleri vardır.
+- Öğrencinin şimdiye kadar aldığı verdiği ve şuan elinde olan kitap görüntülenebilir.
+- Öğrencinin geciktirdiği kitaplar, listesinde kırmızı olarak işaretlenir.
+- Kitabın teslim süresine iki gün kaldığında uyarı amaçlı sarı işaretlenir.
+- Teslim edilmiş kitaplar yeşil renkte işaretlenir.
+- Teslim edilmesine 2 gün kalana kadar turkuazla işaretlenir.
+- Kitap alma ve iade işlemleri tarihsel düzeyde gerçekleşir.
+- Kitap kodu ve adına göre kitap bilgilerine ulaşılabilir.
+- Kitabın geciktirildiği her gün için 1 birimlik ceza yazılır.
+- Kütüphanedeki tüm kitaplar, öğrenciye verilmiş olan kitaplar ve verilmeye hazır olan kitaplar Zedgrapgh grafik ile gösterilir.
 
 ## Katmanlar
-### Entity Layer (Varlık Katmanı)
-Access tablolarımızı kodda tek tek oluşturup içindeki sutunları oluşturduğumuz yerdir. Kodda bu sutunlara gelecek değişkenleri oluşturup kapsüllemelerini yaptık. Diğer katamnalrdan erişimizi sağlama için classlarımızı public yaptık.
-### Facade Layer (Cephe Katmanı)
-SQL işlemlerinin yapıldığı katman. Bu katmanda entity katmanı ile beraber iş yapmaktayız bunu yapa bilmek için başvurulardan (referances) entity layeri ekleyip kullandığımız yerlerin tamamında çağırmamız gerekiyor. 
-### Business Logic Layer (İş Mantık Katmanı)
-Sunum katmanından aldığımız değerleri kontrol edip facade katmanına yolladığımız yerdir. Yine classlar public yapılır ve burayada  entity ve facede katmanı referanslanır ve çağırılır.
-### Presentations Layer (Sunum Katmanı)
-Kullanıcının gördüğü katmandır. Burdan aldığımız değerleri Business Logic Layera yollarız. Diğer katmanları tekrardan burada referanslamamız ve çağırmamız gerekli.
+### Varlık Katmanı
+Access tablolarımızı kodda tek tek oluşturup içindeki sütunları oluşturduğumuz yer. Kod bu sütunlara gelecek değişkenleri oluşturup kapsüllemelerini yapar. Diğer katmanlardan erişimi sağlamak için sınıflar erişilebilirdir.
+### Cephe Katmanı
+SQL işlemlerinin yapıldığı katman. Bu katman Varlık Katmanı ile beraber çalışmaktadır. Bunu yapabilmesi için başvurulardan Varlık Katmanını eklenmiş ve kullanılan yerlerin tamamında çağırılmıştır. 
+### İş Mantık Katmanı
+Sunum Katmanından alınan değerlerin kontrolu yapılıp edip Cephe Katmanına yollanır. Sınıflar erişilebilirdir, Varlık Katmanı ile Cephe Katmanı referanslanır, ardından çağırılır.
+### Sunum Katmanı
+Kullanıcının gördüğü katmandır. Buradan alınan değerler İş Mantık Katmanına yollanır. Diğer katmanlar tekrar burada referanslanır ve çağırılır.
