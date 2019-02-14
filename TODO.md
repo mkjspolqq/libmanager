@@ -1,0 +1,1 @@
+- Add corresponding emails to AUTHORS
